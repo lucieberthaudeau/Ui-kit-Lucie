@@ -1,0 +1,25 @@
+#logos {
+	text-align: center;
+}
+
+#list-inline {
+	list-style: none; 
+	padding: 30px
+}
+
+#list-inline ul {
+	margin: 5;
+	text-decoration: none;
+}
+
+#list-inline li { 
+	font-size: 30px;
+	display: inline;
+	text-decoration: none;
+	width: 100px;
+}
+
+i {
+	font-size: 50px;
+}
+

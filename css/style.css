@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/divider.css');
+@import url('components/navbar.css');
+@import url('components/media.css');
+
+body {
+	background-color: #F9F9F9;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3 {
+	font-family: 'Raleway', sans-serif;
+	font-weight:  bold;
+	text-align: center;
+
+}
+
+a {
+	text-decoration: none;
+}
